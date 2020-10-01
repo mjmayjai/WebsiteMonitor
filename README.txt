@@ -21,8 +21,8 @@ Tech dependencies and considerations:
     dependency management system, so the simplicity of using so many external
     libraries was great.
 
-    I would like to call out that I have very little professional java experience,
-    so if I have strange naming conventions or I'm missing some common Java pattern,
+    I would like to call out that I have very little professional Java experience,
+    so if I have strange naming conventions or I'm missing some common Java pattern, I would like to offer
     my apologies. I became accustomed with Maven while working on the old server stack
     for my last project in scala.
 
